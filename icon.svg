@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="96" fill="#061a35"/>
+<path d="M70 150h245a28 28 0 0 1 28 28v146H70z" fill="#0878f9"/>
+<path d="M343 214h66l48 58v52H343z" fill="#00c69a"/>
+<circle cx="154" cy="340" r="39" fill="#f2f7ff"/><circle cx="154" cy="340" r="18" fill="#061a35"/>
+<circle cx="390" cy="340" r="39" fill="#f2f7ff"/><circle cx="390" cy="340" r="18" fill="#061a35"/>
+<text x="256" y="115" font-family="Arial,Tahoma,sans-serif" font-size="45" font-weight="bold" fill="#f2f7ff" text-anchor="middle">الأحلام</text>
+</svg>

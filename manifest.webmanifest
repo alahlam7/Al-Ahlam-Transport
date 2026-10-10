@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "الأحلام للنقل والخدمات اللوجستية",
+  "short_name": "الأحلام للنقل",
+  "description": "نظام حسابات وإدارة رحلات شركة الأحلام للنقل",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#061a35",
+  "theme_color": "#061a35",
+  "icons": [
+    {"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
